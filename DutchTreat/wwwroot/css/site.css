@@ -14,3 +14,16 @@ input, textarea {
 label {
     font-size: 16px;
 } 
+
+#theDiv {
+    background-color: #808080;
+}
+
+#theDiv input[type=submit] {
+    background-color: green;
+    color: white;
+}
+
+.product-props {
+    font-size: 10px;
+}
