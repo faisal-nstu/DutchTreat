@@ -15,15 +15,36 @@ label {
     font-size: 16px;
 } 
 
-#theDiv {
+#theForm {
     background-color: #808080;
 }
 
-#theDiv input[type=submit] {
-    background-color: green;
-    color: white;
+    #theForm input[type=submit] {
+        background-color: green;
+        color: white;
+    }
+
+ul.product-props {
+    font-size: small;
 }
 
-.product-props {
-    font-size: 10px;
+ul.product-props li {
+    list-style: none;
+}
+
+.product-info {
+    border: 1px solid Grey;
+    display: inline-block;
+    padding: 5px 2px;
+    margin: 2px;
+    width: 450px;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+.product-info img {
+    margin: 3px;
+    float: left;
+    border: 1px solid black;
+    max-width: 150px;
 }
