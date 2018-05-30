@@ -1,0 +1,93 @@
+[
+  {
+    "category": "Painting",
+    "size": "20x30",
+    "price": 30.5,
+    "title": "Monalisa",
+    "artDescription": "artDescription artDescription artDescription artDescription",
+    "artDating": "2/10/1979",
+    "artId": "242324",
+    "artist": "Van Gogh",
+    "artistBirthDate": "1/4/1800",
+    "artistDeathDate": "2/3/1865",
+    "ArtistNationality": "Italian"
+  },
+  {
+    "category": "Painting",
+    "size": "20x30",
+    "price": 30.5,
+    "title": "Starry Night",
+    "artDescription": "artDescription artDescription artDescription artDescription",
+    "artDating": "2/10/1979",
+    "artId": "242324",
+    "artist": "Van Gogh",
+    "artistBirthDate": "1/4/1800",
+    "artistDeathDate": "2/3/1865",
+    "ArtistNationality": "Italian"
+  },
+  {
+    "category": "Painting",
+    "size": "20x30",
+    "price": 30.5,
+    "title": "Starry Night",
+    "artDescription": "artDescription artDescription artDescription artDescription",
+    "artDating": "2/10/1979",
+    "artId": "242324",
+    "artist": "Van Gogh",
+    "artistBirthDate": "1/4/1800",
+    "artistDeathDate": "2/3/1865",
+    "ArtistNationality": "Italian"
+  },
+  {
+    "category": "Painting",
+    "size": "20x30",
+    "price": 30.5,
+    "title": "Starry Night",
+    "artDescription": "artDescription artDescription artDescription artDescription",
+    "artDating": "2/10/1979",
+    "artId": "242324",
+    "artist": "Van Gogh",
+    "artistBirthDate": "1/4/1800",
+    "artistDeathDate": "2/3/1865",
+    "ArtistNationality": "Italian"
+  },
+  {
+    "category": "Painting",
+    "size": "20x30",
+    "price": 30.5,
+    "title": "Starry Night",
+    "artDescription": "artDescription artDescription artDescription artDescription",
+    "artDating": "2/10/1979",
+    "artId": "242324",
+    "artist": "Van Gogh",
+    "artistBirthDate": "1/4/1800",
+    "artistDeathDate": "2/3/1865",
+    "ArtistNationality": "Italian"
+  },
+  {
+    "category": "Painting",
+    "size": "20x30",
+    "price": 30.5,
+    "title": "Starry Night",
+    "artDescription": "artDescription artDescription artDescription artDescription",
+    "artDating": "2/10/1979",
+    "artId": "242324",
+    "artist": "Van Gogh",
+    "artistBirthDate": "1/4/1800",
+    "artistDeathDate": "2/3/1865",
+    "ArtistNationality": "Italian"
+  },
+  {
+    "category": "Painting",
+    "size": "20x30",
+    "price": 30.5,
+    "title": "Starry Night",
+    "artDescription": "artDescription artDescription artDescription artDescription",
+    "artDating": "2/10/1979",
+    "artId": "242324",
+    "artist": "Van Gogh",
+    "artistBirthDate": "1/4/1800",
+    "artistDeathDate": "2/3/1865",
+    "ArtistNationality": "Italian"
+  }
+]
