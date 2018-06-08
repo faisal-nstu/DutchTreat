@@ -12,7 +12,7 @@
     var button =
         $("#buyButton");
     button.on("click", function () {
-        alert("Buying item");
+        //alert("Buying item");
     });
 
     var productInfo = $(".product-props li")
