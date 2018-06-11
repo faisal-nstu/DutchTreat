@@ -49,7 +49,7 @@ namespace DutchTreat.Data
                 }
             }
 
-            if (!_context.Products.Any())
+            if (_context.Products.Count() < 20)
             {
                 // create sample data
                 var filePath = Path.Combine(_hosting.ContentRootPath,"Data/art.json");

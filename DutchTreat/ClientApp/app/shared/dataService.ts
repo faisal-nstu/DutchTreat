@@ -8,14 +8,23 @@ import { Order, OrderItem } from "./order";
 @Injectable()
 export class DataService {
 
-    constructor(private http: Http) { }
+    constructor(private http: Http) {
+    }
+
+    private token: string = "";
+    private tokenExpiration: Date;
 
     public order: Order = new Order();
+
     public products: Product[] = [];
 
     public loadProducts(): Observable<Product[]> {
         return this.http.get("/api/products")
             .map((result: Response) => this.products = result.json());
+    }
+
+    public get loginRequired(): boolean {
+        return this.token.length == 0 || this.tokenExpiration > new Date();
     }
 
     public AddToOrder(product: Product) {
